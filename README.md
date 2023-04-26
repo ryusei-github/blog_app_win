@@ -14,9 +14,3 @@
 ```
 php artisan serve
 ```
-
-### フロント立ち上げ
-
-```
-npm run dev
-```
